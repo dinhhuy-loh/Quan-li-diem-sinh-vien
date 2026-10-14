@@ -125,4 +125,4 @@ plt.close(fig)
 
 # 5. Thong tin nguoi tao
 st.markdown("---")
-st.caption("Người tạo ứng dụng: [HỌ VÀ TÊN] | MSSV: [MÃ SỐ SINH VIÊN]")
+st.caption("Người tạo ứng dụng: [Nguyễn Đình Huy] | MSSV: [066208018496]")
